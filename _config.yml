@@ -8,16 +8,16 @@ url: "https://dsnnunes.com.br/SID"
 
 # Secondary Parameters
 baseurl: "/SID"
-header-img: img/home-bg.jpg
+header-img: img/digital-signage-slide-1.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: img/logos/logo-ifg-2.png
 
 # Tertiary Parameters
 github_username:  danielsaad
-project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
-altmetric: true
+project_repository: SID
+#disqus_shortname: project-pages
+#g-analytics: UA-75881392-1
+#altmetric: true
 
 # Build settings
 gems: [jekyll-paginate]
@@ -36,7 +36,7 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-      header-img: "img/home-bg.jpg"
+      header-img: "img/digital-signage-slide-1.jpg"
 
 # Prose Settings
 prose:

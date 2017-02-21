@@ -1,7 +1,15 @@
 ---
 layout: page
 ---
-{% for post in paginator.posts %}
+
+# Sobre o SID
+
+# Motivação
+
+
+
+
+<!-- {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -18,10 +26,10 @@ layout: page
 	</div>
 </div>
 <hr>
-{% endfor %}
+{% endfor %} -->
 
 <!-- Pager -->
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
@@ -35,4 +43,4 @@ layout: page
     {% endif %}
 </ul>
 {% endif %}
-
+ -->
