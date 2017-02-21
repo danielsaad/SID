@@ -7,7 +7,7 @@ url: "https://dsnnunes.com.br/SID"
 
 
 # Secondary Parameters
-baseurl: "/SID"
+baseurl:
 header-img: img/digital-signage-slide-1.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/logo-ifg-2.png
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://projectpages.github.io/project-pages/'
+  siteurl: 'https://dsnnunes.com.br/SID/'
   ispp: true
   media: 'img'
   metadata:
