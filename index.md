@@ -1,5 +1,7 @@
 ---
 layout: page
+title: SID
+description: Sistema Inteligente de Divulgação de Informações do IFG Formosa
 ---
 
 # Sobre o SID
