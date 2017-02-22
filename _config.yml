@@ -7,7 +7,7 @@ url: "https://dsnnunes.com.br/"
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "SID"
 header-img: img/digital-signage-slide-1.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/logo-ifg-2.png
