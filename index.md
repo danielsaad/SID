@@ -47,7 +47,7 @@ Estas características tornam a plataforma Raspberry Pi ideal para ser utilizada
 na implantação do SID.
 
 <figure>
-  <img src="{{site.url}}/img/raspberry-pi.jpg" style="margin:0px auto;display:block" alt="Raspberry Pi" width="300" height="300">
+  <img src="{{site.url}}{{site.baseurl}}/img/raspberry-pi.jpg" style="margin:0px auto;display:block" alt="Raspberry Pi" width="300" height="300">
   <!-- <img src="img/raspberry-pi.jpg" width="300" height="300"> -->
 </figure>
 
