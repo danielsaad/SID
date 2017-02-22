@@ -6,7 +6,17 @@ description: Sistema Inteligente de Divulgação de Informações do IFG Formosa
 
 # Sobre o SID
 
-# Motivação
+O Sistema Inteligente de Divulgação de Informações do IFG-Formosa (SID) surgiu da
+premissa de que as informações no Câmpus encontravam-se dispostas em veículos
+de divulgação estáticos e enfadonhos como:
+
+* Memorandos;
+* Postagens em Murais localizados no câmpus;
+* Notícias no site oficial do IFG-Formosa.
+
+De modo a disponibilizar a divulgação de informações de maneira ágil, atrativa
+e interativa, o SID foi desenvolvido utilizando conceitos de
+sinalização digital.
 
 
 
