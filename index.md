@@ -18,6 +18,19 @@ De modo a disponibilizar a divulgação de informações de maneira ágil, atrat
 e interativa, o SID foi desenvolvido utilizando conceitos de
 sinalização digital.
 
+A sinalização digital  é um veículo de comunicação que utiliza-se de painéis digitais, como televisões LCD ou monitores, colocados em espaços públicos estratégicos para orientar, divulgar ou até mesmo distrair os transeuntes. É um veículo moderno, dinâmico e interativo de divulgação que se utilizado corretamente pode aumentar o poder de assimilação de informação.
+
+Como as informações em sinalização digital são divulgadas de maneira dinâmica e digital, artifícios, como os códigos QR (QR-codes), podem ser utilizados para ampliar os detalhes a serem transmitidos. Estes códigos são análogos à códigos de barra bidimensionais, que podem ser decodificados por meio aplicativos de *smarthphones* através de uma câmera. Estes códigos podem armazenar objetos de diferentes naturezas como:
+
+* URLs;
+* Textos;
+* Posições geográficas;
+* *etc*.
+
+<figure>
+  <img src="{{site.url}}{{site.baseurl}}/img/sid-qrcode.png" style="margin:0px auto;display:block" alt="QR-Code" width="200" height="200">
+  <!-- <img src="img/raspberry-pi.jpg" width="300" height="300"> -->
+</figure>
 
 ## Arquitetura
 
