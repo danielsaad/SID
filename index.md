@@ -11,13 +11,53 @@ premissa de que as informações no Câmpus encontravam-se dispostas em veículo
 de divulgação estáticos e enfadonhos como:
 
 * Memorandos;
-* Postagens em Murais localizados no câmpus;
+* Postagens em murais localizados no câmpus;
 * Notícias no site oficial do IFG-Formosa.
 
 De modo a disponibilizar a divulgação de informações de maneira ágil, atrativa
 e interativa, o SID foi desenvolvido utilizando conceitos de
 sinalização digital.
 
+
+## Arquitetura
+
+O SID é estruturado de acordo com a arquitetura de aplicação cliente-servidor.
+O módulo servidor tem acesso restrito a servidores da área de Comuicação Social
+do Câmpus. Este módulo permite alimentar o SID com as divulgações a serem exibidas
+pelo módulo cliente.
+
+Por sua vez, o módulo cliente requisita ao módulo servidor as informações a serem
+apresentadas no painel digital e as formata de modo adequado para apresentação.
+
+
+## Implantação no Câmpus Formosa
+
+O módulo cliente não requer muito poder computacional, logo pode ser executado
+em computadores com poder de processamento mais modesto. Uma alternativa
+econômicamente viável para a implantação do SID no câmpus foi adotar dispositivos
+Raspberry Pi para desempenhar o papel de cliente. Estes dispositivos:
+* São do tamanho de um cartão de crédito;
+* Possuem acesso às redes Wi-Fi do Câmpus;
+* São economicamente acessíveis;
+* Acomplam-se facilmente à painéis digitais;
+* Consomem pouca energia elétrica;
+* Possuem poder computacional razoável e processamento gráfico dedicado.
+
+Estas características tornam a plataforma Raspberry Pi ideal para ser utilizada
+na implantação do SID.
+
+<figure>
+  <img src="img/raspberry-pi.jpg" style="margin:0px auto;display:block" alt="Raspberry Pi" width="300" height="300">
+  <!-- <img src="img/raspberry-pi.jpg" width="300" height="300"> -->
+</figure>
+
+
+## Integração com Redes Sociais
+
+De modo a unificar os diferentes veículos de divulgação de informação no Câmpus
+Formosa, o SID possui uma integração ao Facebook. Desta forma, qualquer
+evento inserido no SID para divulgação também é postado em um perfil
+específico do Facebook.
 
 
 
