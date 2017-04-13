@@ -36,12 +36,6 @@ defaults:
     values:
       layout: "page"
     scope:
-      path: "projects"
-      type: "pages"
-    values:
-      layout: "project"
-      header-img: "img/digital-signage-slide-1.jpg"
-    scope:
       path: ""
       type: "pages"
     values:
