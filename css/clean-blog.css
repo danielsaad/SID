@@ -12,6 +12,7 @@ body {
 p {
   line-height: 1.5;
   margin: 30px 0;
+  text-indent: 50px;
 }
 p a {
   text-decoration: underline;
