@@ -33,10 +33,6 @@ defaults:
   -
     scope:
       path: ""
-    values:
-      layout: "page"
-    scope:
-      path: ""
       type: "pages"
     values:
       header-img: "img/digital-signage-slide-1.jpg"
