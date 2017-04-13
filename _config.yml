@@ -15,8 +15,8 @@ logo: img/logos/logo-ifg-2.png
 # Tertiary Parameters
 github_username: danielsaad
 project_repository: SID
-#disqus_shortname: project-pages
-#g-analytics: UA-75881392-1
+disqus_shortname: daniel_saad
+g-analytics: UA-91631229-1
 #altmetric: true
 
 # Build settings
