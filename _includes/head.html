@@ -15,7 +15,7 @@
 	<link rel='shortcut icon' type='image/png' href='{{ site.baseurl }}/favicon.ico' type="image/x-icon" />
 
     <title>
-      {% if page.title and page.title!=site.title%}
+      {% if page.title and page.title==site.title %}
         {{ page.title }}
       {% else %}
         {{ site.title }} - {{page.title}}
