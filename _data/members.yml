@@ -2,9 +2,7 @@
 - name: Matheus de Carvalho Sobrinho
   role: Desenvolvedor do SID
   img: /SID/img/avatar-matheus.jpg
-  bio: Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG-Formosa. Seu TCC consistiu
-  no desenvolvimento e implantação do SID no Câmpus Formosa bem como a integração do sistema com redes sociais,
-  como o Facebook.
+  bio: Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG-Formosa. Seu TCC consistiu no desenvolvimento e implantação do SID no Câmpus Formosa bem como a integração do sistema com redes sociais, como o Facebook.
   visible: true
 - name: Daniel Saad Nogueira Nunes
   role: Orientador do Projeto
