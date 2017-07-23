@@ -35,7 +35,7 @@ defaults:
       path: ""
       type: "pages"
     values:
-      header-img: "/SID/img/digital-signage-slide-1.jpg"
+      header-img: "SID/img/digital-signage-slide-1.jpg"
 
 # Prose Settings
 prose:
