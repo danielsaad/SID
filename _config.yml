@@ -1,7 +1,7 @@
 # Site settings
 title: SID
 description: "Sistema Inteligente de Divulgação de Informações do IFG Formosa"
-url: "https://danielsaad.com"
+url: "https://danielsaad.com/SID"
 
 
 
@@ -40,7 +40,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.ico','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://dsnnunes.com.br/'
+  siteurl: 'https://danielsaad.com'
   ispp: true
   media: 'img'
   metadata:
