@@ -7,8 +7,8 @@ url: "https://danielsaad.com/SID"
 
 
 # Secondary Parameters
-baseurl: ""
-header-img: /img/digital-signage-slide-1.jpg
+baseurl: "/SID/"
+header-img: /SID/img/digital-signage-slide-1.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/logo-ifg-2.png
 
