@@ -1,13 +1,13 @@
 # Site settings
 title: SID
 description: "Sistema Inteligente de Divulgação de Informações do IFG Formosa"
-url: "https://danielsaad.com/SID"
+url: "https://danielsaad.com"
 
 
 
 
 # Secondary Parameters
-baseurl: ""
+baseurl: "SID"
 header-img: img/digital-signage-slide-1.jpg
 headercolor: "#FFFFFF"
 logo: img/logos/logo-ifg-2.png
@@ -35,12 +35,12 @@ defaults:
       path: ""
       type: "pages"
     values:
-      header-img: "SID/img/digital-signage-slide-1.jpg"
+      header-img: "img/digital-signage-slide-1.jpg"
 
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.ico','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'https://danielsaad.com/SID'
+  siteurl: 'https://danielsaadl.com/'
   ispp: true
   media: 'img'
   metadata:
