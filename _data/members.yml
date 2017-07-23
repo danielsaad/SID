@@ -1,16 +1,11 @@
 # Members
-
 - name: Matheus de Carvalho Sobrinho
   role: Desenvolvedor do SID
   img: /SID/img/avatar-matheus.jpg
-  #github: ahmetcecen
-#  gplus: https://plus.google.com/+AhmetCecen-GPlus
   bio: Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFG-Formosa. Seu TCC consistiu
   no desenvolvimento e implantação do SID no Câmpus Formosa bem como a integração do sistema com redes sociais,
   como o Facebook.
-#  url: http://ahmetcecen.github.io/
   visible: true
-
 - name: Daniel Saad Nogueira Nunes
   role: Orientador do Projeto
   img: https://avatars0.githubusercontent.com/u/2043876?v=3&u=765413734d83b009686a09375be609bcf68e946d&s=400
